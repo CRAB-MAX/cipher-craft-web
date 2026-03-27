@@ -1,1 +1,1 @@
-
+CipherCraft is a professional, React-based web application featuring a "glassmorphism" design for secure, real-time encryption and decryption of text. This project, built by a CSE student, highlights clean UI/UX and functional frontend logic, utilizing Tailwind CSS for a modern, responsive interface. View the project at CipherCraft.
